@@ -1,8 +1,9 @@
+streamlit
+altair==4.2.2
 pandas
 numpy
-matplotlib
 scikit-learn
+matplotlib
 seaborn
 plotly
-nbformat
-streamlit
+joblib
